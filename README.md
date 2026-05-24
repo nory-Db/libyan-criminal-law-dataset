@@ -10,7 +10,7 @@ Structured **CSV datasets** extracted from the text of the **Libyan Criminal Law
 
 ### Source
 
-Plain‑text files of the code in `source/`:
+The text was taken from the Libyan Penal Code as published on **[alyassir.com](https://alyassir.com/%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D9%84%D9%8A%D8%A8%D9%8A/)**, then saved as plain‑text files in `source/`:
 
 | File | Book | Subject |
 |---|---|---|
@@ -83,7 +83,7 @@ It reads the text files from `source/` and writes every CSV into `csv/`.
 
 ### المصدر
 
-ملفات نصية للقانون في مجلد `source/`:
+أُخِذ النص من قانون العقوبات الليبي كما هو منشور على **[alyassir.com](https://alyassir.com/%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D9%84%D9%8A%D8%A8%D9%8A/)**، ثم حُفظ في ملفات نصية في مجلد `source/`:
 
 | الملف | الكتاب | الموضوع |
 |---|---|---|
