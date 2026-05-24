@@ -1,5 +1,7 @@
 # Libyan Criminal Law — Dataset / القانون الجنائي الليبي — مجموعة بيانات
 
+![Last updated](https://img.shields.io/badge/Last%20updated-24%20May%202026-blue)
+
 > *(English below — النسخة العربية في الأسفل)*
 
 ---
