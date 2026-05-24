@@ -69,7 +69,10 @@ It reads the text files from `source/` and writes every CSV into `csv/`.
 
 ### Notes & disclaimer
 
-- The CSVs are produced from plain‑text files that contain occasional OCR‑style artifacts (stray characters, elongation/tatweel). The structure (book/door/section/number/title) is faithful, but **this is an unofficial dataset for reference and research — verify against the official gazette before any legal use.**
+- **Prepared:** 24 May 2026.
+- The CSVs are produced from plain‑text files that contain occasional OCR‑style artifacts (stray characters, elongation/tatweel). The structure (book/door/section/number/title) is as accurate as possible, but **this is an unofficial dataset prepared for reference and research only — it is no substitute for the official text.**
+- **Always verify against the official gazette and authoritative texts before any legal use or before relying on it in any official procedure;** some articles may have been amended, repealed, or newly added after the preparation date above.
+- This dataset is provided "as is", without warranty of any kind, express or implied. The user alone bears full responsibility for any use of or reliance on it, and the preparer of this dataset accepts no liability for any error, omission, or harm that may result.
 - Files are saved as UTF‑8 with BOM so Arabic displays correctly in Excel.
 
 ---
